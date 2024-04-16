@@ -1,0 +1,78 @@
+Título de la columna
+	Tipo de dato
+	Descripción
+id_evento_caso 
+	Número entero (integer)
+	Numero de caso 
+sexo 
+	Texto (string)
+	Sexo 
+edad 
+	Número entero (integer)
+	Edad 
+edad_años_meses 
+	Texto (string)
+	Edad indicada en meses o años  
+residencia_pais_nombre 
+	Texto (string)
+	País de residencia 
+residencia_provincia_nombre 
+	Texto (string)
+	Provincia de residencia 
+residencia_departamento_nombre 
+	Texto (string)
+	Departamento de residencia 
+carga_provincia_nombre 
+	Texto (string)
+	Provincia de establecimiento de carga 
+fecha_inicio_sintomas 
+	Fecha ISO-8601 (date)
+	Fecha de inicio de síntomas 
+fecha_apertura 
+	Fecha ISO-8601 (date)
+	Fecha de apertura del caso 
+sepi_apertura 
+	Número entero (integer)
+	Semana Epidemiológica de fecha de apertura 
+fecha_internacion 
+	Fecha ISO-8601 (date)
+	Fecha de internación  
+cuidado_intensivo 
+	Texto (string)
+	Indicación si estuvo en cuidado intensivo 
+fecha_cui_intensivo 
+	Fecha ISO-8601 (date)
+	Fecha de ingreso a cuidado intensivo en el caso de corresponder 
+fallecido 
+	Texto (string)
+	Indicación de fallecido 
+fecha_fallecimiento 
+	Tiempo ISO-8601 (time)
+	Fecha de fallecimiento en el caso de corresponder 
+asistencia_respiratoria_mecanica 
+	Texto (string)
+	Indicación si requirió asistencia respiratoria mecánica 
+carga_provincia_id 
+	Número entero (integer)
+	Código de Provincia de carga 
+origen_financiamiento 
+	Texto (string)
+	Origen de financiamiento 
+clasificacion 
+	Texto (string)
+	Clasificación manual del registro 
+clasificacion_resumen 
+	Texto (string)
+	Clasificación del caso 
+residencia_provincia_id 
+	Número entero (integer)
+	Código de Provincia de residencia 
+fecha_diagnostico 
+	Tiempo ISO-8601 (time)
+	Fecha de diagnóstico 
+residencia_departamento_id 
+	Número entero (integer)
+	Código de Departamento de residencia 
+ultima_actualizacion 
+	Fecha ISO-8601 (date)
+	Última actualización 
